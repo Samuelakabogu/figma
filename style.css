@@ -175,8 +175,9 @@ section{
         grid-template-columns: repeat(1, 1fr);
         padding: 0;
         padding-top:30px;
+        padding-left: 20%;
         row-gap: 10px;
-        width: 100vw;
+        width: max-content;
         height: fit-content;
         justify-content: center;
     }   

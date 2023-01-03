@@ -174,11 +174,9 @@ section{
         grid-template-rows: 467px 305px 300px 447px 317px;
         grid-template-columns: repeat(1, 1fr);
         padding-top:30px;
-        padding-left: 50px;
+        padding-left: 200px;
         row-gap: 10px;
-        width: 100%;
-        padding: 0;
-        align-items: center;
+        width: max-content;
         height: fit-content;
         justify-content: center;
     }   

@@ -9,6 +9,8 @@
 body{
     overflow-x: hidden;
     background-color: #F2F2F2;
+    display: flex;
+    justify-content: center;
 }
 section{
     display: grid;
@@ -17,7 +19,6 @@ section{
     row-gap: 10px;
     max-width: 100vw;
     padding: 100px;
-    padding-right: 150px;
     column-gap: 50px;
     height: 100vh;
     padding-top: 30px;

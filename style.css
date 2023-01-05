@@ -9,6 +9,7 @@
 body{
     overflow-x: hidden;
     background-color: #F2F2F2;
+    padding: 100px;
 }
 section{
     display: grid;
@@ -18,7 +19,6 @@ section{
     max-width: 100vw;
     column-gap: 50px;
     height: 100vh;
-    padding: 100px;
     padding-top: 30px;
 }
 .daniel{

@@ -7,9 +7,10 @@
     font-family: 'Barlow Semi Condensed', sans-serif;
 }
 body{
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
     background-color: #F2F2F2;
     display: flex;
+    width: 100vw;
     justify-content: center;
 }
 section{
